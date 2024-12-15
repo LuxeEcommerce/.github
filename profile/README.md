@@ -1,7 +1,23 @@
-## Hi there 👋
+# Luxe Ecommerce 🧥
+ 
+Luxe Ecommerce is B2C Ecommerce website for clothing brand, with minimalized design and interactive design, we built this website to make a great user experience.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+We also integrate secure payment method with Paypal as well as using other technology to elevate all of the good things that Luxe has to offer
+
+## Technology ⚙️
+
+### Frontend 🌟
+
+- Nextjs
+- Reactjs
+
+### Backend💾
+
+ - Nodejs
+ - Expressjs
+ - Mysql
+ - JWT
+
+### Payment Gateway 💲
+
+- Paypal API
